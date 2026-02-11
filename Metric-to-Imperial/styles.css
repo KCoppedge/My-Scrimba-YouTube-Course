@@ -42,12 +42,10 @@ body {
     font-size: 40px;
     font-weight: bold;
     padding: 10px;
-    /* Reduced padding slightly to prevent overflow */
     outline: none;
     margin-top: 20px;
     text-align: center;
     width: 100%;
-    /* Fill the container */
     max-width: 200px;
 }
 
@@ -75,16 +73,15 @@ body {
     min-height: 310px;
     text-align: center;
     overflow-wrap: anywhere;
-    /* This forces long numbers to wrap to a new line */
 }
 
 .bottomH3 {
     margin: 20px 0 5px 0;
 }
 
-/* Added to style the paragraphs inside the bottom container */
 #bottomContainer p {
     margin: 0 0 15px 0;
     font-size: 14px;
     line-height: 1.5;
+
 }
