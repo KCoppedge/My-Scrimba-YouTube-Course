@@ -1,0 +1,18 @@
+body {
+    margin-left: 20px;
+}
+
+.up {
+    color: #2ecc71;
+}
+
+.down {
+    color: #e74c3c;
+}
+
+#footerEl {
+    align-items: end;
+    display: flex;
+    justify-content: start;
+    margin-top: 77vb;
+}
